@@ -5,7 +5,7 @@
 ********************************
 - Description of netDx
 - Description of the parameters used, functions defined, input and output about our case in study
-- Description of each file in the repo
+- Description of each file in the repository
 
 ********************************
 ***DESCRIPTION OF NETDX***
