@@ -3,7 +3,7 @@
 ********************************
 ***CONTENT OF THIS REPOSITORY***
 ********************************
-- Description of netDx
+- Description of netDx used in the publication: https://doi.org/10.1111/vco.12588
 - Description of the parameters used, functions defined, input and output about our case in study
 - Description of each file in the repository
 
