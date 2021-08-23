@@ -1,4 +1,4 @@
-# Supplementary repository to replicate the netDx classification in the paper: Integrated analysis of gene expression profiling, copy number variations and DNA methylation in canine B-cell indolent lymphomas
+# Multi-omics netDx classification for the integrated analysis of gene expression profiling, copy number variations and DNA methylation in canine B-cell indolent lymphomas
 
 ********************************
 ***CONTENT OF THIS REPOSITORY***
